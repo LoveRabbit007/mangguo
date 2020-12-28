@@ -1,0 +1,15 @@
+com\mangguo\goods\feign\SpuFeign.class
+com\mangguo\goods\pojo\Spu.class
+com\mangguo\goods\feign\CategoryFeign.class
+com\mangguo\goods\pojo\Sku.class
+com\mangguo\goods\pojo\Goods.class
+com\mangguo\goods\pojo\Template.class
+com\mangguo\goods\pojo\CategoryBrand.class
+com\mangguo\goods\pojo\Album.class
+com\mangguo\goods\pojo\Brand.class
+com\mangguo\goods\pojo\Pref.class
+com\mangguo\goods\pojo\Para.class
+com\mangguo\goods\pojo\Log.class
+com\mangguo\goods\feign\SkuFeign.class
+com\mangguo\goods\pojo\Spec.class
+com\mangguo\goods\pojo\Category.class

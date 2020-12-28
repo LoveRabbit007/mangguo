@@ -1,0 +1,5 @@
+com\mangguo\system\pojo\Admin.class
+com\mangguo\system\pojo\Menu.class
+com\mangguo\system\pojo\Resource.class
+com\mangguo\system\pojo\LoginLog.class
+com\mangguo\system\pojo\Role.class
