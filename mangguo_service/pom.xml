@@ -13,7 +13,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>mangguo_service_goods</module>
-        <module>mangguo_goods_api</module>
+        <module>mangguo_service_system</module>
     </modules>
 
 

@@ -1,0 +1,4 @@
+GET http://localhost:9101/goods/brand
+Content-Type :application/json
+token: eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI2N2VhMDg5Ni0wYmEzLTQwNjctYmI0Zi1jOWU0ZmM0YzIwNDgiLCJzdWIiOiJhZG1pbiIsImlzcyI6ImFkbWluIiwiaWF0IjoxNjA5MjUzNjE0LCJleHAiOjE2MDkyNTcyMTR9.NGc4FgqV1IHFONiLfhyyh67fdX8QfoI1WsIXHeX8n8Y
+###

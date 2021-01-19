@@ -11,8 +11,6 @@
 
     <artifactId>mangguo_gateway</artifactId>
 
-
-
     <!--网关依赖-->
     <dependencies>
         <dependency>

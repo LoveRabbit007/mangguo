@@ -22,8 +22,8 @@ spring:
             - name: RequestRateLimiter #请求数限流 名字不能随便写
               args:
                 key-resolver: "#{@ipKeyResolver}"
-                redis-rate-limiter.replenishRate: 1 #令牌桶每秒填充平均速率
-                redis-rate-limiter.burstCapacity: 1 #令牌桶总容量
+                redis-rate-limiter.replenishRate: 2 #令牌桶每秒填充平均速率
+                redis-rate-limiter.burstCapacity: 10 #令牌桶总容量
         - id: system
           uri: lb://system
           predicates:

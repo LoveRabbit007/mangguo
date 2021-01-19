@@ -14,6 +14,7 @@
         <module>mangguo_service</module>
         <module>mangguo_common_db</module>
         <module>mangguo_common</module>
+        <module>mangguo_service_api</module>
     </modules>
 
     <parent>
